@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../Downloads/[DameDesuYo] Kobayashi-san Chi no Maid Dragon S - 05 (1920x1080 10bit AAC) [DBC1B978].mkv
-Video File: ../Downloads/[DameDesuYo] Kobayashi-san Chi no Maid Dragon S - 05 (1920x1080 10bit AAC) [DBC1B978].mkv
+Audio File: ../../../Downloads/[DameDesuYo] Kobayashi-san Chi no Maid Dragon S - 05 (1920x1080 10bit AAC) [DBC1B978].mkv
+Video File: ../../../Downloads/[DameDesuYo] Kobayashi-san Chi no Maid Dragon S - 05 (1920x1080 10bit AAC) [DBC1B978].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 750
-Active Line: 759
-Video Position: 17633
+Scroll Position: 887
+Active Line: 904
+Video Position: 18515
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -792,11 +792,156 @@ Dialogue: 1,0:12:13.42,0:12:15.42,pSigns,,0,0,0,,{\blur24\an7\pos(0,0)\c&HACC6FA
 Dialogue: 1,0:12:13.42,0:12:15.42,pSigns,,0,0,0,,{\blur20\fs150\fsp-15\an5\c&H7879F3&\fnAPJFK-AnoHana\b1\frz348.3\clip(m 384 849 l 457 599 1006 779 945 1036)\pos(692.19,863.238)}DameDesuYo
 Dialogue: 1,0:12:13.42,0:12:15.42,pSigns,,0,0,0,,{\blur20\fs150\fsp-15\an5\c&H7879F3&\fnAPJFK-AnoHana\b1\frz348.3\clip(m 384 849 l 457 599 1006 779 945 1036)\pos(689.904,803.81)}DameDesuYo
 Dialogue: 8,0:12:13.42,0:12:15.42,pSigns,,0,0,0,,{\blur1\fs100\fax0.09\an5\frz340.3\c&H424468&\fnSVN-Cinnamoncake\b0\pos(690.667,807.999)}S{*\c&H404266&}ư{*\c&H3F4164&}ờ{*\c&H3D3F63&}n {*\c&H3A3C60&}b{*\c&H393B5E&}ò{\c&H383A5D&}\N{\c&H53558A&}C{*\c&H505284&}a{*\c&H4D4F7E&}o {*\c&H474973&}C{*\c&H44466D&}ấ{\c&H424468&}p
-Dialogue: 4,0:12:15.42,0:12:17.42,pSigns,,0,0,0,,{\blur0.6\fs36\an5\frz5.011\fnCrayon\pos(1546.286,622.286)\c&HCFD3C7&\b0}Flower
-Dialogue: 4,0:12:15.42,0:12:17.42,pSigns,,0,0,0,,{\blur0.6\fs32\fscx77\an5\fnCrayon\frz1.738\pos(1576,662.287)\c&HCFD3C7&}Arrangements
-Dialogue: 4,0:12:15.42,0:12:17.42,pSigns,,0,0,0,,{\fry40\blur0.6\fs52\an6\fnCrayon\c&HBCC0B3&\fsp-2\frz2.804\pos(1640.429,771.572)\b0}off\N{\fsp-5}T{\fsp0}oday
+Dialogue: 4,0:12:15.42,0:12:17.42,pSigns,,0,0,0,,{\blur0.6\fs36\an5\frz5.011\fnCrayon\pos(1546.286,622.286)\c&HCFD3C7&\b0}
+Dialogue: 4,0:12:15.42,0:12:17.42,pSigns,,0,0,0,,{\blur0.6\fs65\fscx77\an5\fnUVF DK Crayon Crumble\c&HCFD3C7&\pos(1565.33,640.95)\frz2.126}Cắm Hoa
+Dialogue: 4,0:12:15.42,0:12:17.42,pSigns,,0,0,0,,{\fry40\blur0.6\fs61\an6\fnUVF DK Crayon Crumble\c&HBCC0B3&\fsp-2\pos(1640.429,771.572)\b0\frz1.019}giảm\N{\fsp-5}Hô{\fsp-3}m nay
 Dialogue: 2,0:12:15.42,0:12:17.42,pSigns,,0,0,0,,{\alpha&HFE&\4a&H00&\shad0.1\bord8\blur16\fs64\an5\fnCrayon\4c&H3D412E&\fsp-2\pos(1553.429,647)\b1\frz336.7\clip(m 1498 856 l 1476 577 1665 566 1681 840 1604 844 b 1613 833 1604 821 1580 820 1556 829 1559 841 1563 851)}itsP
 Dialogue: 1,0:12:15.42,0:12:17.42,pSigns,,0,0,0,,{\bord9\alpha&HFE&\4a&H00&\shad0.1\blur4\fs36\an5\frz5.011\fnCrayon\pos(1546.286,622.286)\c&HCFD3C7&\4c&H586141&\clip(m 1498 856 l 1476 577 1665 566 1681 840 1604 844 b 1613 833 1604 821 1580 820 1556 829 1559 841 1563 851)}Flower
 Dialogue: 1,0:12:15.42,0:12:17.42,pSigns,,0,0,0,,{\bord9\alpha&HFE&\4a&H00&\shad0.1\blur4\fs32\fscx77\an5\fnCrayon\frz1.738\pos(1576,662.287)\c&HCFD3C7&\4c&H57613E&\clip(m 1498 856 l 1476 577 1665 566 1681 840 1604 844 b 1613 833 1604 821 1580 820 1556 829 1559 841 1563 851)}Arrangements
-Dialogue: 1,0:12:15.42,0:12:17.42,pSigns,,0,0,0,,{\xbord5\ybord10\alpha&HFE&\4a&H00&\shad0.1\fry40\blur4\fs52\an6\fnCrayon\c&HCFD3C7&\fsp-2\4c&H535B3E&\clip(m 1498 856 l 1476 577 1665 566 1681 840 1604 844 b 1613 833 1604 821 1580 820 1556 829 1559 841 1563 851)\frz2.804\pos(1640.429,771.572)}off\N{\fsp-5}T{\fsp0}oday
+Dialogue: 1,0:12:15.42,0:12:17.42,pSigns,,0,0,0,,{\xbord5\ybord10\alpha&HFE&\4a&H00&\shad0.1\fry40\blur4\fs52\an6\fnCrayon\c&HCFD3C7&\fsp-2\4c&H535B3E&\clip(m 1498 856 l 1476 577 1665 566 1681 840 1604 844 b 1613 833 1604 821 1580 820 1556 829 1559 841 1563 851)\frz2.804\pos(1627.1,766.24)}off\N{\fsp-5}T{\fsp0}odaoo
+Dialogue: 1,0:12:17.42,0:12:19.30,pSigns,,0,0,0,,{\an7\pos(0,0)\c&H4E5645&\blur3\fscx100\fscy100\p1}m 504 957 b 517 970 632 959 702 958 l 664 869 549 873
+Dialogue: 1,0:12:17.42,0:12:19.30,pSigns,,0,0,0,,{\an7\pos(0,0)\c&H4E5642&\blur3\fscx100\fscy100\p1}m 1221 795 b 1231 798 1282 803 1367 793 l 1364 727 b 1358 740 1349 736 1342 729 l 1251 724
+Dialogue: 1,0:12:17.42,0:12:19.30,pSigns,,0,0,0,,{\an7\pos(0,0)\c&H565848&\blur3\fscx100\fscy100\p1}m 1927 504 l 1909 506 1905 436 1933 430
+Dialogue: 5,0:12:17.42,0:12:19.30,pSigns,,0,0,0,,{\blur0.6\fs46\fax0.2\an5\c&HE6E9E7&\fnUVN Bay Buom\frz1.717\pos(601,919)}Hoa hồng\N¥300
+Dialogue: 5,0:12:17.42,0:12:19.30,pSigns,,0,0,0,,{\blur0.6\fs42\fax0.1\an5\c&HE6E9E7&\fnUVN Bay Buom\frz2.547\pos(1294,758)}Hoa Tulips\N{\fscx80}¥250
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\an7\pos(0,0)\c&H52CE91&\be1\fscx100\fscy100\p1}m 1 329 l 198 331 292 155 14 154 -4 167
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\an7\pos(0,0)\c&HEDFAFC&\be1\fscx100\fscy100\p1}m 262 328 l 702 327 739 147 361 143
+Dialogue: 2,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\bord0.5\shad1\blur1\an7\pos(0,0)\c&HEBFAFC&\fscx100\fscy100\p1\3c&H8BA9AE&\4c&H607D83&}m 341 235 b 415 126 717 145 695 235 658 356 291 354 341 235
+Dialogue: 3,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\blur0.6\an7\pos(0,0)\c&HEBFAFC&\fscx100\fscy100\p1}m 341 235 b 415 126 717 145 695 235 658 356 291 354 341 235
+Dialogue: 2,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\alpha&HFE&\4a&h00&\shad0.1\bord2.3\fay-0.7\frx10\fs44\an7\c&HBFF1E3&\fnBaqa\4c&H1E9454&\pos(69,161)\blur0.75\fax-0.1\frz324.4}Improve\NYour\NTypesetting\NSkills
+Dialogue: 3,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\fay-0.7\frx10\fs44\an7\c&HBFF1E3&\fnBaqa\pos(69,161)\blur0.75\fax-0.1\frz324.4}Improve\NYour\NTypesetting\NSkills{Avoid using /fay. OK?}
+Dialogue: 5,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\bord2\fay-0.45\fs90\fsp2\an8\c&H455D80&\fnBarthowheel\frz337.4\pos(544,177)\3c&H455D80&\blur0.666}YES{\fs40}\NYou Can\N{\fsp3}English
+Dialogue: 6,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\fay-0.45\fs90\fsp2\an8\c&H7D86DF&\fnBarthowheel\frz337.4\pos(544,177)\blur0.666}YES{\fs40}\NYou Can\N{\fsp3}English
+Dialogue: 5,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\bord3.5\fs10\fsp2\an5\c&HBED0B2&\1a&HC0&\fnKBPlanetEarth\blur0.666\frz245.9\3c&H9AABA1&\pos(342,279)}Sakura\N\NMiko
+Dialogue: 6,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\bord0.75\fs10\fsp2\an5\c&HBED0B2&\fnKBPlanetEarth\blur0.666\frz245.9\3c&HBED0B2&\pos(342,279)}Sakura\N\NMiko
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\an7\pos(0,0)\c&HF4FAEE&\blur5\fscx100\fscy100\p1}m 635 512 l 250 509 208 597 623 599
+Dialogue: 2,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\bord2\blur0.6\fscx88\fsp1\alpha&HFE&\4a&H00&\shad0.1\fs84\fax-0.5\an5\4c&H997F43&\fnCCComicrazy\pos(446.856,541.142)}B{*\fax-0.467}e{*\fax-0.433}c{*\fax-0.4}o{*\fax-0.367}m{*\fax-0.333}i{*\fax-0.3}n{*\fax-0.267}{\fsp-10}g {\fax-0.2\fs115\4c&H6C5AD7&\fnDroid Sans\yshad14\fsp2\b1\bord0}AI
+Dialogue: 2,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\bord2\blur0.6\fscx95\fscy95\fsp1\alpha&HFE&\4a&H00&\shad0.1\fs84\fax-0.2\an5\4c&H8A7236&\fnCCComicrazy\pos(956.57,491.999)}B{*\fax-0.15}e{*\fax-0.1}c{*\fax-0.05}o{*\fax-0}m{*\fax0.05}i{*\fax0.1}n{*\fax0.15}{\fsp-10}g {\fax0.25\fs115\4c&H6C5AD7&\fnDroid Sans\yshad14\fsp2\b1}AI
+Dialogue: 3,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\blur0.6\fscx88\fsp1\alpha&HFE&\4a&H00&\shad0.1\fs84\fax-0.5\an5\4c&HB2913E&\fnCCComicrazy\pos(446.856,541.142)}B{*\fax-0.467}e{*\fax-0.433}c{*\fax-0.4}o{*\fax-0.367}m{*\fax-0.333}i{*\fax-0.3}n{*\fax-0.267}{\fsp-10}g {\fax-0.2\fs115\4c&H6C5AD7&\fnDroid Sans\yshad14\fsp2\b1}AI
+Dialogue: 3,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\blur0.6\fscx95\fscy95\fsp1\alpha&HFE&\4a&H00&\shad0.1\fs84\fax-0.2\an5\4c&HB2913E&\fnCCComicrazy\pos(956.57,491.999)}B{*\fax-0.15}e{*\fax-0.1}c{*\fax-0.05}o{*\fax-0}m{*\fax0.05}i{*\fax0.1}n{*\fax0.15}{\fsp-10}g {\fax0.25\fs115\4c&H6C5AD7&\fnDroid Sans\yshad14\fsp2\b1}AI
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(0,0,808,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(808,0,816,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(816,0,824,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(824,0,832,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(832,0,840,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(840,0,848,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(848,0,856,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(856,0,864,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(864,0,872,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(872,0,880,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(880,0,888,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(888,0,896,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(896,0,904,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(904,0,912,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(912,0,920,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(920,0,928,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(928,0,936,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(936,0,944,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(944,0,952,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4F9EF&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(952,0,960,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(960,0,968,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(968,0,976,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(976,0,984,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(984,0,992,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(992,0,1000,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(1000,0,1008,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(1008,0,1016,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(1016,0,1024,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(1024,0,1032,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(1032,0,1040,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(1040,0,1048,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(1048,0,1056,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(1056,0,1064,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(1064,0,1072,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(1072,0,1080,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(1080,0,1088,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(1088,0,1096,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\clip(1096,0,2000,1200)\pos(0,0)\an7\blur3\fscx100\fscy100\p1\c&HF4FAEE&}m 1165 470 l 743 464 733 538 1180 542
+Dialogue: 2,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\an7\pos(0,0)\c&HF8F0CA&\blur8\fscx100\fscy100\p1\clip(950,478,1798,788)}m 1231 481 l 1448 480 1589 780 1311 778
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\an7\pos(0,0)\c&HF8F0CA&\be1\fscx100\fscy100\p1}m 1231 481 l 1448 480 1589 780 1311 778
+Dialogue: 3,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\xbord14\ybord11\an7\pos(0,0)\alpha&HFE&\4a&H00&\shad0.1\4c&H86634F&\blur0.66\fscx100\fscy100\p1}m 1280 496 l 1481 496 1532 608 1317 608
+Dialogue: 4,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\xbord12\ybord9\an7\pos(0,0)\alpha&HFE&\4a&H00&\shad0.1\4c&HAF724E&\blur0.66\fscx100\fscy100\p1}m 1280 496 l 1481 496 1532 608 1317 608
+Dialogue: 5,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\bord1.5\an7\pos(0,0)\alpha&HFE&\4a&H00&\shad0.1\4c&H86634F&\blur0.66\fscx100\fscy100\p1}m 1280 496 l 1481 496 1532 608 1317 608
+Dialogue: 6,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\an7\pos(0,0)\c&HF6F6F6&\blur0.66\fscx100\fscy100\p1}m 1280 496 l 1481 496 1532 608 1317 608
+Dialogue: 8,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\blur0.7\fax0.35\fs40\fsp3\frx16\an8\c&H4E4B49&\frz0.342\fnFull Dece Sans\pos(1387,504)}Let's Get\N{\fs60}\hJacked
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\an7\pos(0,0)\c&HEBF1F6&\be1\fscx100\fscy100\p1}m 1831 223 l 1638 231 1618 191 1775 182 1807 187
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\an7\pos(0,0)\c&HEBF1F6&\be1\fscx100\fscy100\p1}m 1899 230 l 1655 240 1644 227 1604 233 1637 290 1699 286 1941 276
+Dialogue: 3,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\blur0.85\fs56\fscx90\fsp-2\fax0.8\frx4\an4\c&H909F61&\fnHawaiian Aloha BTN\frz1.517\pos(1611,236)}H{*\fax0.838}o{*\fax0.875}w {*\fax0.95}T{*\fax0.988}o {*\fax1.063}B{\fax1.1}e{*\fax0.95}\N{\fax0.8\c&H4857D0&\fscx100}HAPPY {\c&H909F61&\fscx90}T{*\fax0.857}o{*\fax0.914}m{*\fax0.971}o{*\fax1.029}r{*\fax1.086}r{*\fax1.143}o{\fax1.2}w
+Dialogue: 3,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\an7\pos(0,0)\c&HF4FCFE&\blur0.7\fscx100\fscy100\p1\clip(m 748 129 l 730 216 b 747 218 771 225 784 236 824 242 901 263 939 288 986 260 1055 240 1134 225 l 1100 127)}m 730 214 b 800 220 902 247 936 267 971 245 1057 219 1129 210 l 1168 318 709 320
+Dialogue: 2,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\bord1\an7\pos(0,0)\c&HF4FCFE&\blur0.7\fscx100\fscy100\p1\clip(m 748 129 l 730 216 b 747 218 771 225 784 236 824 242 901 263 939 288 986 260 1055 240 1134 225 l 1100 127)\3c&H879EA5&}m 730 214 b 800 220 902 247 936 267 971 245 1057 219 1129 210 l 1168 318 709 320
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\an7\pos(0,0)\c&H8DD4F4&\blur5\fscx100\fscy100\p1}m 754 135 l 736 216 937 259 1124 218 1093 130
+Dialogue: 5,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\fax-0.07\blur0.7\fs64\fscy94\fsp5\frx10\an8\c&H4673DC&\fnMotter Corpus Std Condensed\b1\pos(931,127)\frz0.7023\3c&H163960&}I{*\c&H4672DC&\fax-0.043}m{*\c&H4572DC&\fax-0.015}p{*\c&H4571DB&\fax0.012}a{*\c&H4470DB&\fax0.04}c{*\fax0.068}t{*\c&H446FDA&\fax0.095}f{*\c&H436FDA&\fax0.122}u{\c&H436EDA&\fax0.15}l{*\c&H3A6ABC&\fax0.05}\N{\c&H32679E&\fax-0.05}W{*\c&H2E629B&\fax-0.022}r{*\c&H2A5D98&\fax0.007}i{*\c&H265896&\fax0.035}t{*\c&H225293&\fax0.063}i{*\c&H1E4D90&\fax0.092}n{\c&H1A488D&\fax0.12}g
+Dialogue: 4,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\fax-0.07\blur0.7\bord0.5\1a&HFE&\fs64\fscy94\fsp5\frx10\an8\c&H4673DC&\fnMotter Corpus Std Condensed\b1\pos(931,127)\frz0.7023\3c&H163960&}I{*\c&H4672DC&\fax-0.043}m{*\c&H4572DC&\fax-0.015}p{*\c&H4571DB&\fax0.012}a{*\c&H4470DB&\fax0.04}c{*\fax0.068}t{*\c&H446FDA&\fax0.095}f{*\c&H436FDA&\fax0.122}u{\c&H436EDA&\fax0.15}l{*\c&H3A6ABC&\fax0.05}\N{\c&H32679E&\fax-0.05}W{*\c&H2E629B&\fax-0.022}r{*\c&H2A5D98&\fax0.007}i{*\c&H265896&\fax0.035}t{*\c&H225293&\fax0.063}i{*\c&H1E4D90&\fax0.092}n{\c&H1A488D&\fax0.12}g
+Dialogue: 3,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\an7\pos(0,0)\c&HF4FCFE&\blur0.7\fscx100\fscy100\p1\clip(m 1110 128 l 1150 230 b 1159 221 1184 233 1209 244 1254 249 1330 267 1385 292 1415 269 1492 240 1538 234 l 1455 126)}m 1182 324 l 1144 219 b 1227 229 1339 256 1372 273 1409 245 1466 230 1527 216 l 1606 319
+Dialogue: 2,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\bord1\1a&HFE&\an7\pos(0,0)\c&HF4FCFE&\blur0.7\fscx100\fscy100\p1\clip(m 1110 128 l 1150 230 b 1159 221 1184 233 1203 240 1248 244 1332 271 1385 292 1415 269 1492 240 1538 234 l 1455 126)\3c&H9AB1B8&}m 1182 324 l 1144 219 b 1227 229 1339 256 1372 273 1409 245 1466 230 1527 216 l 1606 319
+Dialogue: 1,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\an7\pos(0,0)\c&H95D5F5&\blur5\fscx100\fscy100\p1}m 1115 133 l 1149 228 1384 293 1535 231 1458 131
+Dialogue: 5,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\fax0.5\blur0.7\fs64\fscy94\fsp5\frx10\an8\c&H4673DC&\fnMotter Corpus Std Condensed\b1\frz0.7023\pos(1300.143,130.428)}I{*\c&H4672DC&}m{*\c&H4572DC&}p{*\c&H4571DB&}a{*\c&H4470DB&}ct{*\c&H446FDA&}f{*\c&H436FDA&}u{\c&H436EDA&}l{*\c&H3A6ABC&}\N\h\h\h{\c&H32679E&}W{*\c&H2E629B&}r{*\c&H2A5D98&}i{*\c&H265896&}t{*\c&H225293&}i{*\c&H1E4D90&}n{\c&H1A488D&}g
+Dialogue: 4,0:12:21.05,0:12:22.80,pSigns,,0,0,0,,{\bord0.4\fax0.5\blur0.7\fs64\fscy94\fsp5\frx10\an8\c&H4673DC&\fnMotter Corpus Std Condensed\b1\frz0.7023\pos(1300.143,130.428)}I{*\c&H4672DC&}m{*\c&H4572DC&}p{*\c&H4571DB&}a{*\c&H4470DB&}ct{*\c&H446FDA&}f{*\c&H436FDA&}u{\c&H436EDA&}l{*\c&H3A6ABC&}\N\h\h\h{\c&H32679E&}W{*\c&H2E629B&}r{*\c&H2A5D98&}i{*\c&H265896&}t{*\c&H225293&}i{*\c&H1E4D90&}n{\c&H1A488D&}g
+Dialogue: 1,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\an7\pos(0,0)\c&HE9F2F0&\blur7\fscx100\fscy100\p1}m 610 193 l 1080 193 1080 300 610 300
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,0,1106,231)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H37525F&\blur0.6}C{*\c&H39545F&}ử{*\c&H3B575F&}a {*\c&H405C60&}H{*\c&H435E60&}à{*\c&H456160&}n{*\c&H486360&}g {*\c&H4D6861&}O{*\c&H4F6B61&}b{\c&H526E62&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,231,1106,233)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H3A5561&\blur0.6}C{*\c&H3C5761&}ử{*\c&H3E5961&}a {*\c&H435E61&}H{*\c&H456061&}à{*\c&H476362&}n{*\c&H496562&}g {*\c&H4E6A62&}O{*\c&H506C62&}b{\c&H536F63&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,233,1106,235)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H3D5863&\blur0.6}C{*\c&H3F5A63&}ử{*\c&H415C63&}a {*\c&H456063&}H{*\c&H476263&}à{*\c&H496463&}n{*\c&H4B6663&}g {*\c&H4F6A63&}O{*\c&H516C63&}b{\c&H536F64&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,235,1106,237)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H415B65&\blur0.6}C{*\c&H425C65&}ử{*\c&H445E65&}a {*\c&H476265&}H{*\c&H496465&}à{*\c&H4B6665&}n{*\c&H4D6865&}g {*\c&H506C65&}O{*\c&H526E65&}b{\c&H547065&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,237,1106,239)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H445E67&\blur0.6}C{*\c&H455F66&}ử{*\c&H476166&}a {*\c&H4A6466&}H{*\c&H4B6666&}à{*\c&H4D6866&}n{*\c&H4E6A66&}g {*\c&H516D66&}O{*\c&H536F66&}b{\c&H557166&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,239,1106,241)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H476169&\blur0.6}C{*\c&H486268&}ử{*\c&H496368&}a {*\c&H4C6668&}H{*\c&H4D6868&}à{*\c&H4F6968&}n{*\c&H506B68&}g {*\c&H536E68&}O{*\c&H546F68&}b{\c&H567168&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,241,1106,243)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H4A646B&\blur0.6}C{*\c&H4B656A&}ử{*\c&H4C666A&}a {*\c&H4E696A&}H{*\c&H4F6A6A&}à{*\c&H506B69&}n{*\c&H516C69&}g {*\c&H536F69&}O{*\c&H547069&}b{\c&H567269&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,243,1106,245)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H4D676D&\blur0.6}C{*\c&H4D686C&}ử{*\c&H4E696C&}a {*\c&H506B6B&}H{*\c&H516C6B&}à{*\c&H526D6B&}n{*\c&H536E6B&}g {*\c&H55706A&}O{*\c&H56716A&}b{\c&H57736A&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,245,1106,247)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H516A6F&\blur0.6}C{*\c&H516A6E&}ử{*\c&H526B6E&}a {*\c&H536D6D&}H{*\c&H546E6D&}à{*\c&H546E6C&}n{*\c&H556F6C&}g {*\c&H56716B&}O{*\c&H57726B&}b{\c&H58736B&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,247,1106,249)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H546D71&\blur0.6}C{*\c&H546D70&}ử{*\c&H546E70&}a {*\c&H556F6F&}H{*\c&H56706E&}àn{*\c&H57716D&}g {*\c&H58726C&}O{*\c&H58736C&}b{\c&H59746C&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,249,1106,251)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H577074&\blur0.6}C{*\c&H577073&}ử{*\c&H577072&}a {*\c&H577171&}H{*\c&H577270&}à{*\c&H587270&}n{*\c&H58736F&}g {*\c&H58746E&}O{*\c&H58746D&}b{\c&H59756D&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,251,1106,253)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H5A7376&\blur0.6}C{*\c&H5A7375&}ử{*\c&H5A7374&}a {*\c&H5A7473&}H{*\c&H5A7472&}à{*\c&H5A7471&}n{*\c&H5A7470&}g {*\c&H5A756F&}O{*\c&H5A756E&}b{\c&H5A766E&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,253,1106,255)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H5E7678&\blur0.6}C{*\c&H5D7677&}ử{*\c&H5D7676&}a {*\c&H5C7674&}H{*\c&H5C7673&}àn{*\c&H5C7672&}g {*\c&H5B7670&}O{*\c&H5B766F&}b{\c&H5B766F&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,255,1106,257)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H61797A&\blur0.6}C{*\c&H607879&}ử{*\c&H607878&}a {*\c&H5F7876&}H{*\c&H5E7875&}à{*\c&H5E7774&}n{*\c&H5D7773&}g {*\c&H5C7771&}O{*\c&H5C7770&}b{\c&H5C7770&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,257,1106,259)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H647C7C&\blur0.6}C{*\c&H637B7B&}ử{*\c&H627B7A&}a {*\c&H617A78&}H{*\c&H607A77&}à{*\c&H5F7976&}n{*\c&H5E7975&}g {*\c&H5D7873&}O{*\c&H5C7872&}b{\c&H5C7871&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,259,1106,261)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H677F7E&\blur0.6}C{*\c&H667E7D&}ử{*\c&H657D7C&}a {*\c&H637C7A&}H{*\c&H627B79&}à{*\c&H617B78&}n{*\c&H607A77&}g {*\c&H5E7975&}O{*\c&H5D7874&}b{\c&H5D7873&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,261,1106,263)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H6A8280&\blur0.6}C{*\c&H68817E&}ử{*\c&H67807D&}a {*\c&H657E7B&}H{*\c&H647D7A&}à{*\c&H637D79&}n{*\c&H627C78&}g {*\c&H607A76&}O{*\c&H5F7975&}b{\c&H5E7974&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,263,1106,265)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H6E8582&\blur0.6}C{*\c&H6C8480&}ử{*\c&H6B837F&}a {*\c&H68817D&}H{*\c&H67807C&}à{*\c&H657F7A&}n{*\c&H647E79&}g {*\c&H617C77&}O{*\c&H607B76&}b{\c&H5F7A75&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,265,1106,267)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H718884&\blur0.6}C{*\c&H6F8682&}ử{*\c&H6D8581&}a {*\c&H6A827E&}H{*\c&H68817D&}à{*\c&H67807C&}n{*\c&H657F7B&}g {*\c&H627C78&}O{*\c&H607B77&}b{\c&H5F7A76&}oro
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(573,267,1106,1269)\pos(843,244)\fs100\an5\fnUVN La Xanh\c&H748B86&\blur0.6}C{*\c&H728984&}ử{*\c&H708883&}a {*\c&H6C8580&}H{*\c&H6A837F&}à{*\c&H69827D&}n{*\c&H67807C&}g {*\c&H637D79&}O{*\c&H617C78&}b{\c&H607B77&}oro
+Dialogue: 1,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\an7\pos(0,0)\c&HEBF2EF&\blur8\fscx100\fscy100\p1}m 1140 183 l 1307 180 1312 311 1137 312
+Dialogue: 1,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\an7\pos(0,0)\c&HEBF2EF&\blur3\fscx100\fscy100\p1}m 1140 183 l 1307 180 1312 311 1137 312
+Dialogue: 3,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\bord1.5\blur0.6\an5\fnUVN La Xanh\fs64\pos(1222,242)\c&H6288AD&\3c&H6288AD&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,0,1334,201)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H3F75C9&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,201,1334,204)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H6A95CF&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,204,1334,207)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H7CA2D2&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,207,1334,210)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H89ACD4&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,210,1334,213)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H95B4D6&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,213,1334,216)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H9FBCD7&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,216,1334,219)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&HA8C2D8&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,219,1334,222)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&HB1C9DA&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,222,1334,225)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&HB9CEDB&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,225,1334,228)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&HC0D4DC&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,228,1334,231)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&HC7D9DD&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,231,1334,234)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&HC7D9DD&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,234,1334,237)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H9AB8D6&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,237,1334,240)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H87AAD4&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,240,1334,243)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H789FD1&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,243,1334,246)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H6C96D0&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,246,1334,249)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H628ECE&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,249,1334,252)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H5887CD&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,252,1334,255)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H4F81CB&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,255,1334,258)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H477BCA&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,258,1334,261)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H3F75C9&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,261,1334,264)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H3F75C9&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,264,1334,267)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H6C96D0&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,267,1334,270)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H7FA4D2&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,270,1334,273)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H8EAFD5&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,273,1334,276)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&H9AB8D6&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,276,1334,279)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&HA4C0D8&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,279,1334,282)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&HAEC7D9&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,282,1334,285)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&HB7CDDB&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,285,1334,288)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&HBFD3DC&\fsp3}Games\NKẹo
+Dialogue: 4,0:12:52.20,0:12:55.17,pSigns,,0,0,0,,{\clip(1113,288,1334,1291)\pos(1222,242)\blur0.6\an5\fnUVN La Xanh\fs64\c&HC7D9DD&\fsp3}Games\NKẹo
+Dialogue: 2,0:12:52.20,0:12:52.91,pSigns,,0,0,0,,{\blur2\xbord7\fs22\fsp2\an5\c&HABA2C6&\fnSVN-Cookies\pos(1762.285,595.999)\3c&HF7F8F7&}Nước Ép
+Dialogue: 3,0:12:52.20,0:12:52.91,pSigns,,0,0,0,,{\blur1\fs22\fsp2\an5\c&HABA2C6&\fnSVN-Cookies\pos(1762.285,595.999)}Nước Ép
+Dialogue: 2,0:12:52.91,0:12:53.04,pSigns,,0,0,0,,{\blur2\xbord7\fs22\fsp2\an5\c&HABA2C6&\fnSVN-Cookies\pos(1762.285,595.999)\3c&HF7F8F7&\iclip(m 1765 607 b 1779 599 1770 599 1782 608)}Nước Ép
+Dialogue: 3,0:12:52.91,0:12:53.04,pSigns,,0,0,0,,{\blur1\fs22\fsp2\an5\c&HABA2C6&\fnSVN-Cookies\pos(1762.285,595.999)\iclip(m 1765 607 b 1779 599 1770 599 1782 608)}Nước Ép
+Dialogue: 2,0:12:53.04,0:12:53.16,pSigns,,0,0,0,,{\blur2\xbord7\fs22\fsp2\an5\c&HABA2C6&\fnSVN-Cookies\pos(1762.285,595.999)\3c&HF7F8F7&\iclip(m 1749 608 b 1759 601 1757 600 1764 609 1765 608 1771 608 1774 608 1774 603 1775 599 1779 600 1785 599 1784 606 1783 609)}Nước Ép
+Dialogue: 3,0:12:53.04,0:12:53.16,pSigns,,0,0,0,,{\blur1\fs22\fsp2\an5\c&HABA2C6&\fnSVN-Cookies\pos(1762.285,595.999)\iclip(m 1749 608 b 1759 601 1757 600 1764 609 1765 608 1771 608 1774 608 1774 603 1775 599 1779 600 1785 599 1784 606 1783 609)}Nước Ép
+Dialogue: 2,0:12:53.16,0:12:53.29,pSigns,,0,0,0,,{\blur2\xbord7\fs22\fsp2\an5\c&HABA2C6&\fnSVN-Cookies\pos(1762.285,595.999)\3c&HF7F8F7&\iclip(m 1766 610 b 1768 601 1758 595 1757 607)}Nước Ép
+Dialogue: 3,0:12:53.16,0:12:53.29,pSigns,,0,0,0,,{\blur1\fs22\fsp2\an5\c&HABA2C6&\fnSVN-Cookies\pos(1762.285,595.999)\iclip(m 1766 610 b 1768 601 1758 595 1757 607)}Nước Ép
+Dialogue: 2,0:12:53.29,0:12:53.41,pSigns,,0,0,0,,{\blur2\xbord7\fs22\fsp2\an5\c&HABA2C6&\fnSVN-Cookies\pos(1762.285,595.999)\3c&HF7F8F7&\iclip(m 1748 611 b 1749 601 1738 597 1739 608)}Nước Ép
+Dialogue: 3,0:12:53.29,0:12:53.41,pSigns,,0,0,0,,{\blur1\fs22\fsp2\an5\c&HABA2C6&\fnSVN-Cookies\pos(1762.285,595.999)\iclip(m 1748 611 b 1749 601 1738 597 1739 608)}Nước Ép
+Dialogue: 2,0:12:53.41,0:12:55.17,pSigns,,0,0,0,,{\blur2\xbord7\fs22\fsp2\an5\c&HABA2C6&\fnSVN-Cookies\pos(1762.285,595.999)\3c&HF7F8F7&}Nước Ép
+Dialogue: 3,0:12:53.41,0:12:55.17,pSigns,,0,0,0,,{\blur1\fs22\fsp2\an5\c&HABA2C6&\fnSVN-Cookies\pos(1762.285,595.999)}Nước Ép
 Dialogue: 0,0:00:01.35,0:00:04.35,pSigns,,0,0,0,,
